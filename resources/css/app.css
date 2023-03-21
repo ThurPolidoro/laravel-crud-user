@@ -1,0 +1,32 @@
+@import "bootstrap/dist/css/bootstrap.css";
+@import "datatables.net-bs5/css/dataTables.bootstrap5.css";
+@import "datatables.net-responsive-bs5/css/responsive.bootstrap5.css";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "@sweetalert2/theme-dark/dark.css";
+
+body {
+    background-color: rgb(46 51 57);
+    user-select: none !important;
+}
+
+.dataTables_length{
+    margin-bottom: 10px;
+    color: #fff !important;
+}
+
+.tableUser_length {
+    color: #fff !important;
+
+}
+
+.dataTables_info {
+    color: #fff !important;
+}
+
+.dataTables_filter label {
+    color: #fff !important;
+}
+
+.dataTables_filter label input{
+    color: #212529;
+}

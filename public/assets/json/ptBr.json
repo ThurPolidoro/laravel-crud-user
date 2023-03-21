@@ -1,0 +1,24 @@
+{
+    "decimal":        "",
+    "emptyTable":     "Nenhum cliente se encontra cadastrado.",
+    "info":           "Mostrando _START_ a _END_ de _TOTAL_ cadastros",
+    "infoEmpty":      "Mostrando 0 a 0 de 0 cadastros",
+    "infoFiltered":   "(Filtrado de um total de _MAX_ cadastros.)",
+    "infoPostFix":    "",
+    "thousands":      ",",
+    "lengthMenu":     "Mostrar _MENU_ cadastros",
+    "loadingRecords": "Carregando...",
+    "processing":     "",
+    "search":         "Buscar:",
+    "zeroRecords":    "Nenhum cadastro correspondente encontrado",
+    "paginate": {
+        "first":      "Primeiro",
+        "last":       "Último",
+        "next":       "Próximo",
+        "previous":   "Anterior"
+    },
+    "aria": {
+        "sortAscending":  ": ativar para classificar a coluna em ordem crescente",
+        "sortDescending": ": ativar para classificar a coluna em ordem decrescente"
+    }
+}
